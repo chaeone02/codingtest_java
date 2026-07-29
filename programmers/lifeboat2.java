@@ -2,6 +2,7 @@
 
 // 핵심 아이디어 : 가장 무거운 사람은 언젠가는 보내야 함
 // 그 사람 보낼때 -> 가장 가벼운 사람도 껴서 보낼 수 있는지!
+
 import java.util.Arrays;
 
 class Solution {
