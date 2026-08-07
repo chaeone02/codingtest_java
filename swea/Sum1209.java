@@ -1,3 +1,9 @@
+// 아이디어!!!
+// 1. map을 다시 사용하지 않기에 굳이 담을 필요 없음
+// 1. 행 합은 한 줄 읽으면 계산되므로, 2차원 배열로 저장할 필요없고 지역변수로 받아 max값만 업데이트 해주면됨
+// 2. 열 최댓값: for(int sum :colsum) answer = Math.max(answer,sum) 으로 바로
+
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
